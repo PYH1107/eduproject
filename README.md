@@ -5,5 +5,5 @@
 
 ## slides
 ![](https://github.com/PYH1107/eduproject/assets/93831321/b20f6df4-2452-4929-8e8a-46f44c17c99a | width=100)
-![image](https://github.com/PYH1107/eduproject/assets/93831321/b20f6df4-2452-4929-8e8a-46f44c17c99a)
+
 
